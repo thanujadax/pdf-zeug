@@ -1,8 +1,8 @@
-chardet @ file:///D:/bld/chardet_1695468773258/work
-freetype-py @ file:///home/conda/feedstock_root/build_artifacts/freetype-py_1650983368720/work
-pillow @ file:///D:/bld/pillow_1719903705592/work
+chardet
+freetype-py
+pillow
 pycairo==1.26.1
-PyPDF2 @ file:///home/conda/feedstock_root/build_artifacts/pypdf2_1667024492624/work
-reportlab @ file:///D:/bld/reportlab_1719323949327/work
-rlPyCairo @ file:///home/conda/feedstock_root/build_artifacts/rlpycairo_1687519531733/work
-typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1717802530399/work
+PyPDF2
+reportlab
+rlPyCairo
+typing_extensions
